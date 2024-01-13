@@ -678,7 +678,7 @@
 																	</div>
 																	<div class="icon-box icon-box-body">
 																		<h3 class="title">Call Us Today</h3>
-																		<p class="icon-box-description">(+62)81 422 7509
+																		<p class="icon-box-description">+91 98008 96552
 																		</p>
 																	</div>
 
