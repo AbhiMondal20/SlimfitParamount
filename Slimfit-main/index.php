@@ -51,8 +51,9 @@
                                     font-size: 59px
                                 }
                             </style>
-                            <h1 class="elementor-heading-title elementor-size-default">We Provide Best Plastic
-                                and Reconstructive Surgery For You</h1>
+                            <h1 class="elementor-heading-title elementor-size-default">Best Cosmetic 
+                            and Aesthetic 
+                            Surgery in Siliguri</h1>
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-67111c17 animated-slow elementor-invisible elementor-widget elementor-widget-text-editor"
@@ -92,9 +93,12 @@
                                 .elementor-widget-text-editor .elementor-drop-cap-letter {
                                     display: inline-block
                                 }
-                            </style> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud exercitation ullamco laboris nisi ut aliquip
+                            </style> Experience the pinnacle of cosmetic 
+                                and aesthetic surgery in Siliguri. 
+                                Our expert team ensures exceptional
+                                results, enhancing your natural beauty 
+                                and boosting confidence. 
+                                Unveil a new you with us.
                         </div>
                     </div>
                     <section
@@ -132,7 +136,7 @@
                                             <div class="jeg-elementor-kit jkit-video-button jeg_module_125_1_65169b8cd61d4"
                                                 data-autoplay="0" data-loop="0" data-controls="0" data-type="youtube"
                                                 data-mute="0" data-start="0" data-end="0"><a
-                                                    href="https://www.youtube.com/watch?v=MLpWrANjFbI"
+                                                    href="https://youtu.be/EZbpeR0nKKk?si=s3bOnRvpZ1T6Z70-"
                                                     class="jkit-video-popup-btn glow-enable"><span
                                                         class="icon-position-before"><i aria-hidden="true"
                                                             class="jki jki-play-button-light"></i></span></a>
@@ -194,8 +198,7 @@
                                         data-id="c25bac2" data-element_type="widget"
                                         data-widget_type="text-editor.default">
                                         <div class="elementor-widget-container">
-                                            Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod
-                                            tempor incididuntut labore et dolore magna aliqua </div>
+                                        SlimFitParamount offers tailored fitness solutions for a healthier you. Transform your body, boost confidence and achieve your wellness goals with us!</div>
                                     </div>
                                     <div class="elementor-element elementor-element-5fbc9d6 elementor-align-left elementor-widget elementor-widget-button"
                                         data-id="5fbc9d6" data-element_type="widget" data-widget_type="button.default">
@@ -228,33 +231,31 @@
                                                     <span class="elementor-icon-list-icon">
                                                         <i aria-hidden="true" class="fas fa-check-circle"></i>
                                                     </span>
-                                                    <span class="elementor-icon-list-text">Breast Implant</span>
+                                                    <span class="elementor-icon-list-text">Hair Transplant</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                                         <i aria-hidden="true" class="fas fa-check-circle"></i>
                                                     </span>
-                                                    <span class="elementor-icon-list-text">Body Shaping</span>
+                                                    <span class="elementor-icon-list-text">Eyelid</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                                         <i aria-hidden="true" class="fas fa-check-circle"></i>
                                                     </span>
-                                                    <span class="elementor-icon-list-text">Buttocks
-                                                        Reshape</span>
+                                                    <span class="elementor-icon-list-text">Face Lifting</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                                         <i aria-hidden="true" class="fas fa-check-circle"></i>
                                                     </span>
-                                                    <span class="elementor-icon-list-text">Botox
-                                                        Injection</span>
+                                                    <span class="elementor-icon-list-text">Leaser Treatment</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                                         <i aria-hidden="true" class="fas fa-check-circle"></i>
                                                     </span>
-                                                    <span class="elementor-icon-list-text">Blefaroplasty</span>
+                                                    <span class="elementor-icon-list-text">Fat Lose</span>
                                                 </li>
                                             </ul>
                                         </div>
@@ -281,8 +282,8 @@
                                             Consultation With Our Doctor </span>
                                     </h3>
                                     <p class="elementor-icon-box-description">
-                                        Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod
-                                        tempor incididuntut labore </p>
+                                    Book your consultation with our expert doctor 
+for personalized healthcare advice. </p>
                                 </div>
                             </div>
                         </div>
@@ -298,7 +299,7 @@
                                 <div class="elementor-icon-box-content">
                                     <h3 class="elementor-icon-box-title">
                                         <span>
-                                            (+62)81 2876 0851 </span>
+                                            (+91) 98008 96552 </span>
                                     </h3>
                                 </div>
                             </div>
@@ -321,22 +322,22 @@
                         data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}"
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-                            <h5 class="elementor-heading-title elementor-size-default">About Quinnie</h5>
+                            <h5 class="elementor-heading-title elementor-size-default">About Slimfit</h5>
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-c5d2790 elementor-widget elementor-widget-heading"
                         data-id="c5d2790" data-element_type="widget" data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-                            <h2 class="elementor-heading-title elementor-size-default">We Provide The Best
-                                Plastic Surgery Since 2006
+                            <h2 class="elementor-heading-title elementor-size-default">Delivering Premier
+                                Plastic Surgery 
+                                Excellence Since 2015
                             </h2>
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-044185b elementor-widget elementor-widget-text-editor"
                         data-id="044185b" data-element_type="widget" data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam dolore magna
+                        Transforming lives through premier plastic surgery excellence since 2015. Unparalleled expertise, personalized care—discover the art of beauty redefined.
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-a32594c jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box"
@@ -351,9 +352,9 @@
                                     </div>
                                     <div class="icon-box icon-box-body">
                                         <h3 class="title">Modern Technology</h3>
-                                        <p class="icon-box-description">Lorem ipsum dolor sit amet, consect
-                                            adipiscing elit, sed do eiusmod tempor incididunt labore etect
-                                            dolore magna aliqua</p>
+                                        <p class="icon-box-description">SlimFit Paramount leverages cutting-edge 
+                                            tech for fitness, employing wearables, 
+                                            AI, and smart equipment for optimal results.</p>
                                     </div>
 
                                 </div>
@@ -371,10 +372,10 @@
                                                 class="jki jki-save-money-light"></i></div>
                                     </div>
                                     <div class="icon-box icon-box-body">
-                                        <h3 class="title">Affordable Pricing</h3>
-                                        <p class="icon-box-description">Lorem ipsum dolor sit amet, consect
-                                            adipiscing elit, sed do eiusmod tempor incididunt labore etect
-                                            dolore magna aliqua</p>
+                                        <h3 class="title">Certified Expert</h3>
+                                        <p class="icon-box-description">SlimFit Paramount's certified experts ensure 
+                                        optimal results, guiding you towards your 
+                                        fitness goals with precision.</p>
                                     </div>
 
                                 </div>
@@ -392,10 +393,10 @@
                                                 class="jki jki-doctor-light"></i></div>
                                     </div>
                                     <div class="icon-box icon-box-body">
-                                        <h3 class="title">Certified Doctor</h3>
-                                        <p class="icon-box-description">Lorem ipsum dolor sit amet, consect
-                                            adipiscing elit, sed do eiusmod tempor incididunt labore etect
-                                            dolore magna aliqua</p>
+                                        <h3 class="title">Smart Fitness</h3>
+                                        <p class="icon-box-description">Achieve your best with SlimFit Paramount, 
+                                        your ultimate companion for efficient and 
+                                        effective workouts.</p>
                                     </div>
 
                                 </div>
@@ -414,42 +415,11 @@
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
                                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                                    href="#">
+                                                    href="/about-us">
                                                     <span class="elementor-button-content-wrapper">
                                                         <span class="elementor-button-text">More About Us</span>
                                                     </span>
                                                 </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-36ec9b4"
-                                data-id="36ec9b4" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-1948d56 elementor-widget__width-auto elementor-absolute elementor-widget-tablet__width-initial elementor-widget elementor-widget-image"
-                                        data-id="1948d56" data-element_type="widget"
-                                        data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
-                                        data-widget_type="image.default">
-                                        <div class="elementor-widget-container">
-                                            <img width="320" height="320"
-                                                src="wp-content/uploads/sites/170/2021/09/ceo-TMRDQF6.jpg"
-                                                class="attachment-full size-full wp-image-387" alt="" decoding="async"
-                                                loading="lazy"
-                                                srcset="https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/ceo-TMRDQF6.jpg 320w, https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/ceo-TMRDQF6-300x300.jpg 300w, https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/ceo-TMRDQF6-150x150.jpg 150w"
-                                                sizes="(max-width: 320px) 100vw, 320px" />
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-3230963 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                                        data-id="3230963" data-element_type="widget"
-                                        data-widget_type="jkit_heading.default">
-                                        <div class="elementor-widget-container">
-                                            <div
-                                                class="jeg-elementor-kit jkit-heading  align-left align-tablet- align-mobile- jeg_module_125_5_65169b8ce227c">
-                                                <div class="heading-section-title  display-inline-block">
-                                                    <h3 class="heading-title">Sophie Hodges</h3>
-                                                </div>
-                                                <div class="heading-section-description">Founder Quinnie</div>
                                             </div>
                                         </div>
                                     </div>
@@ -541,11 +511,11 @@
                                         data-id="68ee4b5" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img width="1335" height="2000"
-                                                src="wp-content/uploads/sites/170/2021/09/female-doctor-holds-cream-and-brush-in-hands.jpg"
+                                                src="assets/img/female-doctor-holds-cream-and-brush-in-hands.jpg"
                                                 class="attachment-full size-full wp-image-239"
                                                 alt="Female doctor holds cream and brush in hands" decoding="async"
                                                 loading="lazy"
-                                                srcset="https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/female-doctor-holds-cream-and-brush-in-hands.jpg 1335w, https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/female-doctor-holds-cream-and-brush-in-hands-200x300.jpg 200w, https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/female-doctor-holds-cream-and-brush-in-hands-684x1024.jpg 684w, https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/female-doctor-holds-cream-and-brush-in-hands-768x1151.jpg 768w, https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/female-doctor-holds-cream-and-brush-in-hands-1025x1536.jpg 1025w, https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/female-doctor-holds-cream-and-brush-in-hands-800x1199.jpg 800w"
+                                                srcset="assets/img/about1.png 1335w, assets/img/about1.png 200w, assets/img/about1.png 684w, assets/img/about1.png 768w, assets/img/about1.png 1025w, assets/img/about1.png 800w"
                                                 sizes="(max-width: 1335px) 100vw, 1335px" />
                                         </div>
                                     </div>
@@ -604,8 +574,8 @@
                                                             class="jki jki-team-1-line"></i></div>
                                                     <div class="content">
                                                         <div class="number-wrapper"><span class="prefix"></span>
-                                                            <span class="number" data-value="1452"
-                                                                data-animation-duration="3500">0</span>
+                                                            <span class="number" data-value="760"
+                                                                data-animation-duration="760">0</span>
                                                             <span class="suffix"></span><sup class="super">+</sup>
                                                         </div>
                                                         <span class="title">Happy Patients</span>
@@ -630,7 +600,7 @@
                                                             class="jki jki-app-light"></i></div>
                                                     <div class="content">
                                                         <div class="number-wrapper"><span class="prefix"></span>
-                                                            <span class="number" data-value="342"
+                                                            <span class="number" data-value="3000"
                                                                 data-animation-duration="3500">0</span>
                                                             <span class="suffix"></span><sup class="super">+</sup>
                                                         </div>
@@ -656,7 +626,7 @@
                                                             class="jki jki-badge"></i></div>
                                                     <div class="content">
                                                         <div class="number-wrapper"><span class="prefix"></span>
-                                                            <span class="number" data-value="15"
+                                                            <span class="number" data-value="9"
                                                                 data-animation-duration="3500">0</span>
                                                             <span class="suffix"></span><sup class="super">+</sup>
                                                         </div>
@@ -682,7 +652,7 @@
                                                             class="jki jki-doctor-light"></i></div>
                                                     <div class="content">
                                                         <div class="number-wrapper"><span class="prefix"></span>
-                                                            <span class="number" data-value="72"
+                                                            <span class="number" data-value="10"
                                                                 data-animation-duration="3500">0</span>
                                                             <span class="suffix"></span><sup class="super">+</sup>
                                                         </div>
@@ -741,8 +711,7 @@
                                         data-id="524f39d" data-element_type="widget"
                                         data-widget_type="text-editor.default">
                                         <div class="elementor-widget-container">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                            eiusmod tempor incididunt ut labore et dolore magna aliqua </div>
+                                        Transforming lives through premier plastic surgery excellence since 2015. </div>
                                     </div>
                                 </div>
                             </div>
@@ -780,7 +749,7 @@
                                         data-id="3e6e477" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img decoding="async"
-                                                src="wp-content/uploads/sites/170/elementor/thumbs/doctor-performing-rhinoplasty-by-injection-of-hyaluronic-acid-in-the-nose-of-his-patient-1-e1632845058879-pdsbvce7"
+                                                src="assets/img/doctor-performing-rhinoplasty-by-injection-of-hyaluronic-acid-in-the-nose-of-his-patient-1-e1632845058879-pdsbvce7"
                                                 title="Doctor performing rhinoplasty by injection of hyaluronic acid in the nose of his patient"
                                                 alt="Doctor performing rhinoplasty by injection of hyaluronic acid in the nose of his patient"
                                                 loading="lazy" />
@@ -795,13 +764,14 @@
                                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                                     <div class="icon-box icon-box-header elementor-animation-">
                                                         <div class="icon style-color"><img decoding="async"
-                                                                src="wp-content/uploads/sites/170/2021/09/nose.png"
+                                                                src="assets/img/nose.png"
                                                                 alt="Rhinoplasty"></div>
                                                     </div>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Rhinoplasty</h3>
-                                                        <p class="icon-box-description">Lorem ipsum dolor sit
-                                                            amet, consectet adipiscing elit</p>
+                                                        <p class="icon-box-description">Silimfit Paramount offers personalized
+ rhinoplasty solutions that cater to your 
+specific goals and desires. </p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -825,7 +795,7 @@
                                         data-id="7a2409a" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img decoding="async"
-                                                src="wp-content/uploads/sites/170/elementor/thumbs/cosmetician-holds-syringe-with-injection-of-botox-e1632845065292-pdsbviz2etugr5ixrqze2uyn0m0dvt0g2stagj2n7c.29.del"
+                                                src="assets/img/cosmetician-holds-syringe-with-injection-of-botox-e1632845065292-pdsbviz2etugr5ixrqze2uyn0m0dvt0g2stagj2n7c.29.del"
                                                 title="Cosmetician holds syringe with injection of botox"
                                                 alt="Cosmetician holds syringe with injection of botox"
                                                 loading="lazy" />
@@ -840,13 +810,15 @@
                                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                                     <div class="icon-box icon-box-header elementor-animation-">
                                                         <div class="icon style-color"><img decoding="async"
-                                                                src="wp-content/uploads/sites/170/2021/09/botox-ZWJZLAK.png"
+                                                                src="assets/img/botox-ZWJZLAK.png"
                                                                 alt="Botox Injection"></div>
                                                     </div>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Botox Injection</h3>
-                                                        <p class="icon-box-description">Lorem ipsum dolor sit
-                                                            amet, consectet adipiscing elit</p>
+                                                        <p class="icon-box-description">Silimfit Paramount, our team of skilled 
+professionals comprises licensed and 
+experienced practitioners specializing
+ in Botox treatments.</p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -870,7 +842,7 @@
                                         data-id="9d4bf5a" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img decoding="async"
-                                                src="wp-content/uploads/sites/170/elementor/thumbs/young-woman-getting-breast-examination-at-the-hospital-e1632845073814-pdsbvqhrxi4rc180ju8emt2brozblduaru16aqrhtk.2"
+                                                src="assets/img/young-woman-getting-breast-examination-at-the-hospital-e1632845073814-pdsbvqhrxi4rc180ju8emt2brozblduaru16aqrhtk.2"
                                                 title="Young woman getting breast examination at the hospital"
                                                 alt="Young woman getting breast examination at the hospital"
                                                 loading="lazy" />
@@ -885,13 +857,15 @@
                                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                                     <div class="icon-box icon-box-header elementor-animation-">
                                                         <div class="icon style-color"><img decoding="async"
-                                                                src="wp-content/uploads/sites/170/2021/09/breast.png"
+                                                                src="assets/img/breast.png"
                                                                 alt="Breast Implant"></div>
                                                     </div>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Breast Implant</h3>
-                                                        <p class="icon-box-description">Lorem ipsum dolor sit
-                                                            amet, consectet adipiscing elit</p>
+                                                        <p class="icon-box-description">Silimfit Paramount is committed to
+ providing the highest quality breast
+ implants with an unwavering focus 
+on safety. </p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -922,7 +896,7 @@
                                         data-id="cd4b64f" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img decoding="async"
-                                                src="wp-content/uploads/sites/170/elementor/thumbs/cosmetologist-doing-laser-facelifting-procedure-in-beauty-clinic-e1632845079520-pdsbvw4t2ich9oztmwo61rn3c07ivkgosl"
+                                                src="assets/img/cosmetologist-doing-laser-facelifting-procedure-in-beauty-clinic-e1632845079520-pdsbvw4t2ich9oztmwo61rn3c07ivkgosl"
                                                 title="Cosmetologist doing laser facelifting procedure in beauty clinic"
                                                 alt="Cosmetologist doing laser facelifting procedure in beauty clinic"
                                                 loading="lazy" />
@@ -937,13 +911,15 @@
                                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                                     <div class="icon-box icon-box-header elementor-animation-">
                                                         <div class="icon style-color"><img decoding="async"
-                                                                src="wp-content/uploads/sites/170/2021/09/facelift.png"
+                                                                src="assets/img/facelift.png"
                                                                 alt="Facelift"></div>
                                                     </div>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Facelift</h3>
-                                                        <p class="icon-box-description">Lorem ipsum dolor sit
-                                                            amet, consectet adipiscing elit</p>
+                                                        <p class="icon-box-description">Silimfit Paramount is pleased to offer 
+advanced facelift procedures, designed 
+to restore a youthful and refreshed 
+appearance to your facial contours.</p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -982,13 +958,15 @@
                                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                                     <div class="icon-box icon-box-header elementor-animation-">
                                                         <div class="icon style-color"><img decoding="async"
-                                                                src="wp-content/uploads/sites/170/2021/09/body.png"
+                                                                src="assets/img/body.png"
                                                                 alt="Body Shaping"></div>
                                                     </div>
                                                     <div class="icon-box icon-box-body">
-                                                        <h3 class="title">Body Shaping</h3>
-                                                        <p class="icon-box-description">Lorem ipsum dolor sit
-                                                            amet, consectet adipiscing elit</p>
+                                                        <h3 class="title">Liposuction</h3>
+                                                        <p class="icon-box-description">Silimfit Paramount is pleased to offer
+ advanced liposuction procedures, 
+a proven and effective method for body 
+contouring and sculpting.</p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -1027,13 +1005,12 @@
                                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                                     <div class="icon-box icon-box-header elementor-animation-">
                                                         <div class="icon style-color"><img decoding="async"
-                                                                src="wp-content/uploads/sites/170/2021/09/buttock.png"
+                                                                src="assets/img/buttock.png"
                                                                 alt="Buttocks Reshape"></div>
                                                     </div>
                                                     <div class="icon-box icon-box-body">
-                                                        <h3 class="title">Buttocks Reshape</h3>
-                                                        <p class="icon-box-description">Lorem ipsum dolor sit
-                                                            amet, consectet adipiscing elit</p>
+                                                        <h3 class="title">Buttock Countouring</h3>
+                                                        <p class="icon-box-description">Slimfit Paramount, we understand the importance of achieving harmonious body proportions and enhancing natural beauty.</p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -1041,8 +1018,7 @@
                                                                         class="fas fa-arrow-right"></i></a>
                                                             </div>
                                                         </div>
-                                                    </div>
-
+                                                    </div> 
                                                 </div>
                                             </div>
                                         </div>
@@ -1101,20 +1077,20 @@
                                     </div>
                                     <div class="gallery-items">
                                         <div id="portfolio-gallery-tab-0" class="image-item current-item"
-                                            data-background="https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/view-from-above-rejuvenation-of-beautiful-woman-enjoying-cosmetology-procedures-in-beauty-salon-der-e1632844866367.jpg"
-                                            style="background-image:url(wp-content/uploads/sites/170/2021/09/view-from-above-rejuvenation-of-beautiful-woman-enjoying-cosmetology-procedures-in-beauty-salon-der-e1632844866367.33.delay);">
+                                            data-background="https://templatekit.jegtheme.com/quinnie/assets/img/view-from-above-rejuvenation-of-beautiful-woman-enjoying-cosmetology-procedures-in-beauty-salon-der-e1632844866367.jpg"
+                                            style="background-image:url(assets/img/view-from-above-rejuvenation-of-beautiful-woman-enjoying-cosmetology-procedures-in-beauty-salon-der-e1632844866367.33.delay);">
                                         </div>
                                         <div id="portfolio-gallery-tab-1" class="image-item "
-                                            data-background="https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/cosmetician-hands-gives-botox-injection-in-stomach-e1632845027985.jpg"
-                                            style="background-image:url(wp-content/uploads/sites/170/2021/09/cosmetician-hands-gives-botox-injection-in-stomach-e1632845027985.jpg);">
+                                            data-background="https://templatekit.jegtheme.com/quinnie/assets/img/cosmetician-hands-gives-botox-injection-in-stomach-e1632845027985.jpg"
+                                            style="background-image:url(assets/img/cosmetician-hands-gives-botox-injection-in-stomach-e1632845027985.jpg);">
                                         </div>
                                         <div id="portfolio-gallery-tab-2" class="image-item "
-                                            data-background="https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/surgery-cosmetology-inject-botox-in-breast--e1632845044756.jpg"
-                                            style="background-image:url(wp-content/uploads/sites/170/2021/09/surgery-cosmetology-inject-botox-in-breast--e1632845044756.jpg);">
+                                            data-background="https://templatekit.jegtheme.com/quinnie/assets/img/surgery-cosmetology-inject-botox-in-breast--e1632845044756.jpg"
+                                            style="background-image:url(assets/img/surgery-cosmetology-inject-botox-in-breast--e1632845044756.jpg);">
                                         </div>
                                         <div id="portfolio-gallery-tab-3" class="image-item current-item"
-                                            data-background="https://templatekit.jegtheme.com/quinnie/wp-content/uploads/sites/170/2021/09/treatment-L795WBY.jpg"
-                                            style="background-image:url(wp-content/uploads/sites/170/2021/09/treatment-L795WBY.jpg);">
+                                            data-background="https://templatekit.jegtheme.com/quinnie/assets/img/treatment-L795WBY.jpg"
+                                            style="background-image:url(assets/img/treatment-L795WBY.jpg);">
                                         </div>
                                     </div>
                                 </div>
@@ -1208,15 +1184,13 @@
                     <div class="elementor-element elementor-element-5e75a07 elementor-widget elementor-widget-heading"
                         data-id="5e75a07" data-element_type="widget" data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-                            <h2 class="elementor-heading-title elementor-size-default">The Procedure for a
-                                Plastic Suegery at Quinnie</h2>
+                            <h2 class="elementor-heading-title elementor-size-default">The Procedure for a Plastic Surgery at Slimfit Paramount</h2>
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-4fcedaa elementor-widget elementor-widget-text-editor"
                         data-id="4fcedaa" data-element_type="widget" data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua </div>
+                        Slimfit Paramount, we prioritize safety, professionalism, and client satisfaction.</div>
                     </div>
                     <div class="elementor-element elementor-element-c07ce3a elementor-widget elementor-widget-jkit_feature_list"
                         data-id="c07ce3a" data-element_type="widget" data-widget_type="jkit_feature_list.default">
@@ -1235,9 +1209,7 @@
                                         </div>
                                         <div class="feature-list-content-box">
                                             <h3 class="feature-list-title">Make an Appointment</h3>
-                                            <p class="feature-list-content">Lorem ipsum dolor sit amet,
-                                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                                labore et dolore</p>
+                                            <p class="feature-list-content">Schedule your transformation today! Call Slimfit Paramount to book your personalized consultation.</p>
                                         </div>
                                     </li>
                                     <li class="feature-list-item elementor-repeater-item-93e25d3">
@@ -1251,9 +1223,7 @@
                                         </div>
                                         <div class="feature-list-content-box">
                                             <h3 class="feature-list-title">Meet With Our Doctor</h3>
-                                            <p class="feature-list-content">Lorem ipsum dolor sit amet,
-                                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                                labore et dolore</p>
+                                            <p class="feature-list-content">Transform your confidence. Schedule a consultation with our expert plastic surgeons today for personalized care.</p>
                                         </div>
                                     </li>
                                     <li class="feature-list-item elementor-repeater-item-e636c65">
@@ -1267,9 +1237,7 @@
                                         </div>
                                         <div class="feature-list-content-box">
                                             <h3 class="feature-list-title">General Body Check</h3>
-                                            <p class="feature-list-content">Lorem ipsum dolor sit amet,
-                                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                                labore et dolore</p>
+                                            <p class="feature-list-content">Comprehensive body check at Slimfit Paramount ensures holistic well-being with precision and care.</p>
                                         </div>
                                     </li>
                                     <li class="feature-list-item elementor-repeater-item-cfca428">
@@ -1283,9 +1251,7 @@
                                         </div>
                                         <div class="feature-list-content-box">
                                             <h3 class="feature-list-title">Get A New Version About You</h3>
-                                            <p class="feature-list-content">Lorem ipsum dolor sit amet,
-                                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                                labore et dolore</p>
+                                            <p class="feature-list-content">Evolve daily, adapting knowledge to empower, inspire, and enhance lives with concise, dynamic insights.</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -1339,10 +1305,7 @@
                                                                 <div class="icon-content"><i aria-hidden="true"
                                                                         class="jki jki-quote-light"></i></div>
                                                                 <div class="comment-content">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit, sed do eiusmod tempor
-                                                                        incididunt ut labore et dolore magna
-                                                                        aliqua minim veniam quis nostrud exerci
+                                                                    <p>Slimfit Clinic in Siliguri stands out as the epitome of excellence in the realm of cosmetic and aesthetic treatments
                                                                     </p>
                                                                 </div>
                                                                 <div class="comment-header">
@@ -1362,12 +1325,10 @@
                                                                 <div class="comment-bio">
                                                                     <div class="bio-details">
                                                                         <div class="profile-image"><img decoding="async"
-                                                                                src="wp-content/uploads/sites/170/2021/09/testimonial-83S5W35.jpg"
-                                                                                alt="Maeve Ritter"></div>
+                                                                                src="assets/img/user.png"
+                                                                                alt="Rakash Roy"></div>
                                                                         <span class="profile-info">
-                                                                            <strong class="profile-name">Maeve
-                                                                                Ritter</strong>
-                                                                            <p class="profile-des">Banker</p>
+                                                                            <strong class="profile-name">Rakash Roy</strong>
                                                                         </span>
                                                                     </div>
                                                                 </div>
@@ -1378,10 +1339,7 @@
                                                                 <div class="icon-content"><i aria-hidden="true"
                                                                         class="jki jki-quote-light"></i></div>
                                                                 <div class="comment-content">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit, sed do eiusmod tempor
-                                                                        incididunt ut labore et dolore magna
-                                                                        aliqua minim veniam quis nostrud exerci
+                                                                    <p>At Slimfit Clinic, experience top-tier cosmetic care with a dedicated team and advanced technologies.
                                                                     </p>
                                                                 </div>
                                                                 <div class="comment-header">
@@ -1401,13 +1359,10 @@
                                                                 <div class="comment-bio">
                                                                     <div class="bio-details">
                                                                         <div class="profile-image"><img decoding="async"
-                                                                                src="wp-content/uploads/sites/170/2021/09/testimonial-A8E2W8S.jpg"
-                                                                                alt="Casey Doyle"></div>
+                                                                                src="assets/img/user.png"
+                                                                                alt="Bijay Tamang"></div>
                                                                         <span class="profile-info">
-                                                                            <strong class="profile-name">Casey
-                                                                                Doyle</strong>
-                                                                            <p class="profile-des">Entrepreneur
-                                                                            </p>
+                                                                            <strong class="profile-name">Bijay Tamang</strong>
                                                                         </span>
                                                                     </div>
                                                                 </div>
@@ -1418,10 +1373,7 @@
                                                                 <div class="icon-content"><i aria-hidden="true"
                                                                         class="jki jki-quote-light"></i></div>
                                                                 <div class="comment-content">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit, sed do eiusmod tempor
-                                                                        incididunt ut labore et dolore magna
-                                                                        aliqua minim veniam quis nostrud exerci
+                                                                    <p>Slimfit Clinic in Siliguri excels in cosmetic and aesthetic treatments, setting the standard for excellence.
                                                                     </p>
                                                                 </div>
                                                                 <div class="comment-header">
@@ -1441,12 +1393,10 @@
                                                                 <div class="comment-bio">
                                                                     <div class="bio-details">
                                                                         <div class="profile-image"><img decoding="async"
-                                                                                src="wp-content/uploads/sites/170/2021/09/testimonial-Q8JDNBT.png"
-                                                                                alt="Marius Huber"></div>
+                                                                                src="assets/img/user.png"
+                                                                                alt="Alak Das"></div>
                                                                         <span class="profile-info">
-                                                                            <strong class="profile-name">Marius
-                                                                                Huber</strong>
-                                                                            <p class="profile-des">Actor</p>
+                                                                            <strong class="profile-name">Alak Das</strong>
                                                                         </span>
                                                                     </div>
                                                                 </div>
@@ -1490,9 +1440,6 @@
                     </div>
                     <div class="elementor-element elementor-element-228a4316 elementor-widget elementor-widget-text-editor"
                         data-id="228a4316" data-element_type="widget" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua </div>
                     </div>
                     <section
                         class="elementor-section elementor-inner-section elementor-element elementor-element-781d6c5a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -1517,7 +1464,7 @@
                                                                     href="2021/09/27/illegal-injections-risk-and-warning-you-must-know/index.html">
                                                                     <div class="thumbnail-container ">
                                                                         <img loading="lazy" width="1920" height="1280"
-                                                                            src="wp-content/uploads/sites/170/2021/09/anti-age-injection-e1632844899535.jpg"
+                                                                            src="assets/img/anti-age-injection-e1632844899535.jpg"
                                                                             class="attachment-full size-full wp-post-image"
                                                                             alt="Anti-age injection" decoding="async" />
                                                                     </div>
@@ -1525,25 +1472,21 @@
                                                             <div class="jkit-postblock-content">
                                                                 <h3 class="jkit-post-title">
                                                                     <a
-                                                                        href="2021/09/27/illegal-injections-risk-and-warning-you-must-know/index.html">Illegal
-                                                                        injections Risk and Warning You Must
-                                                                        Know</a>
+                                                                        href="2021/09/27/illegal-injections-risk-and-warning-you-must-know/index.html">The Comprehensive Guide to Hair Transplants</a>
                                                                 </h3>
                                                                 <div class="jkit-post-meta">
                                                                     <div class="jkit-meta-date icon-position-before">
                                                                         <i aria-hidden="true"
                                                                             class="fas fa-clock"></i>September
-                                                                        27, 2021
+                                                                        06, 2023
                                                                     </div>
                                                                 </div>
                                                                 <div class="jkit-post-excerpt">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit, sed do eiusmod tempor
-                                                                        incididunt ut labore</p>
+                                                                    <p>Hair loss can be a challenging experience, impacting self-esteem and confidence for many individuals. </p>
                                                                 </div>
                                                                 <div class="jkit-post-meta-bottom">
                                                                     <div class="jkit-meta-readmore icon-position-after">
-                                                                        <a href="2021/09/27/illegal-injections-risk-and-warning-you-must-know/index.html"
+                                                                        <a href=""
                                                                             class="jkit-readmore">Read More<i
                                                                                 aria-hidden="true"
                                                                                 class="fas fa-arrow-right"></i></a>
@@ -1557,7 +1500,7 @@
                                                                     href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular-2/index.html">
                                                                     <div class="thumbnail-container ">
                                                                         <img width="1920" height="1282"
-                                                                            src="wp-content/uploads/sites/170/2021/09/man-at-the-plastic-surgeon-e1632844939853.jpg"
+                                                                            src="assets/img/man-at-the-plastic-surgeon-e1632844939853.jpg"
                                                                             class="attachment-full size-full wp-post-image"
                                                                             alt="Man at the plastic surgeon"
                                                                             decoding="async" loading="lazy" />
@@ -1566,21 +1509,17 @@
                                                             <div class="jkit-postblock-content">
                                                                 <h3 class="jkit-post-title">
                                                                     <a
-                                                                        href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular-2/index.html">Medical
-                                                                        Surgery Has Marked as One of the Most
-                                                                        Popular</a>
+                                                                        href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular-2/index.html">Breast Augmentation</a>
                                                                 </h3>
                                                                 <div class="jkit-post-meta">
                                                                     <div class="jkit-meta-date icon-position-before">
                                                                         <i aria-hidden="true"
-                                                                            class="fas fa-clock"></i>September
-                                                                        22, 2021
+                                                                            class="fas fa-clock"></i>January
+                                                                        19, 2024
                                                                     </div>
                                                                 </div>
                                                                 <div class="jkit-post-excerpt">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit, sed do eiusmod tempor
-                                                                        incididunt ut labore</p>
+                                                                    <p>Breast augmentation is surgery to increase breast size. It involves placing breast implants under breast tissue or chest muscles. And Slimfit Clinic is one of the best clinic to provide breast augmentation treatment in Siliguri.</p>
                                                                 </div>
                                                                 <div class="jkit-post-meta-bottom">
                                                                     <div class="jkit-meta-readmore icon-position-after">
@@ -1598,7 +1537,7 @@
                                                                     href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular/index.html">
                                                                     <div class="thumbnail-container ">
                                                                         <img width="1920" height="1280"
-                                                                            src="wp-content/uploads/sites/170/2021/09/enlarging-lips-at-cosmetic-clinic-e1632845241540.jpg"
+                                                                            src="assets/img/enlarging-lips-at-cosmetic-clinic-e1632845241540.jpg"
                                                                             class="attachment-full size-full wp-post-image"
                                                                             alt="Enlarging lips at cosmetic clinic"
                                                                             decoding="async" loading="lazy" />
@@ -1607,25 +1546,21 @@
                                                             <div class="jkit-postblock-content">
                                                                 <h3 class="jkit-post-title">
                                                                     <a
-                                                                        href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular/index.html">10
-                                                                        Things You Must Know About Plastic
-                                                                        Surgery</a>
+                                                                        href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular/index.html">Liposuction Surgery</a>
                                                                 </h3>
                                                                 <div class="jkit-post-meta">
                                                                     <div class="jkit-meta-date icon-position-before">
                                                                         <i aria-hidden="true"
-                                                                            class="fas fa-clock"></i>September
-                                                                        22, 2021
+                                                                            class="fas fa-clock"></i>January
+                                                                        26, 2024
                                                                     </div>
                                                                 </div>
                                                                 <div class="jkit-post-excerpt">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit, sed do eiusmod tempor
-                                                                        incididunt ut labore</p>
+                                                                    <p>At this era, almost everyone is suffering from high weight problem. And becasue of the bad figure they don’t find themselves comfortable in public.</p>
                                                                 </div>
                                                                 <div class="jkit-post-meta-bottom">
                                                                     <div class="jkit-meta-readmore icon-position-after">
-                                                                        <a href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular/index.html"
+                                                                        <a href=""
                                                                             class="jkit-readmore">Read More<i
                                                                                 aria-hidden="true"
                                                                                 class="fas fa-arrow-right"></i></a>
@@ -1636,10 +1571,10 @@
                                                         <article
                                                             class="jkit-post post-104 post type-post status-publish format-standard has-post-thumbnail hentry category-implant tag-breast-surgery">
                                                             <div class="jkit-thumb"><a
-                                                                    href="2021/09/22/most-popular-breast-implant-surgeon-in-united-state/index.html">
+                                                                    href="">
                                                                     <div class="thumbnail-container ">
                                                                         <img width="1920" height="1278"
-                                                                            src="wp-content/uploads/sites/170/2021/09/male-surgeon-prepares-woman-for-surgery-in-clinic-e1632844975873.jpg"
+                                                                            src="assets/img/male-surgeon-prepares-woman-for-surgery-in-clinic-e1632844975873.jpg"
                                                                             class="attachment-full size-full wp-post-image"
                                                                             alt="Male surgeon prepares woman for surgery in clinic"
                                                                             decoding="async" loading="lazy" />
@@ -1647,26 +1582,21 @@
                                                                 </a></div>
                                                             <div class="jkit-postblock-content">
                                                                 <h3 class="jkit-post-title">
-                                                                    <a
-                                                                        href="2021/09/22/most-popular-breast-implant-surgeon-in-united-state/index.html">Most
-                                                                        Popular Breast Implant Surgeon in United
-                                                                        State</a>
+                                                                    <a href="">Facelift Treatment</a>
                                                                 </h3>
                                                                 <div class="jkit-post-meta">
                                                                     <div class="jkit-meta-date icon-position-before">
                                                                         <i aria-hidden="true"
-                                                                            class="fas fa-clock"></i>September
-                                                                        22, 2021
+                                                                            class="fas fa-clock"></i>January
+                                                                        28, 2024
                                                                     </div>
                                                                 </div>
                                                                 <div class="jkit-post-excerpt">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit, sed do eiusmod tempor
-                                                                        incididunt ut labore</p>
+                                                                    <p>Facelift is a technique to lift from your face And Slimfit Clinic is one of the best clinic to provide facelift treatment in Siliguri.</p>
                                                                 </div>
                                                                 <div class="jkit-post-meta-bottom">
                                                                     <div class="jkit-meta-readmore icon-position-after">
-                                                                        <a href="2021/09/22/most-popular-breast-implant-surgeon-in-united-state/index.html"
+                                                                        <a href=""
                                                                             class="jkit-readmore">Read More<i
                                                                                 aria-hidden="true"
                                                                                 class="fas fa-arrow-right"></i></a>

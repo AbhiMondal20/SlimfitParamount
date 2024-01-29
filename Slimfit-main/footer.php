@@ -34,8 +34,7 @@
 														data-id="f4b359c" data-element_type="widget"
 														data-widget_type="text-editor.default">
 														<div class="elementor-widget-container">
-															Lorem ipsum dolor sit amet, consectet adipiscing elit, sed
-															do eiusmod </div>
+														Slimfit Clinic is a cosmetic clinic based in Siliguri. Slimfit Clinic provides the most advanced, safe, and customized treatment ,equipped with world-class machines and state of the art technology and experienced staff. </div>
 													</div>
 													<div class="elementor-element elementor-element-1e19ff4 elementor-shape-circle e-grid-align-left e-grid-align-tablet-left elementor-grid-0 elementor-widget elementor-widget-social-icons"
 														data-id="1e19ff4" data-element_type="widget"
@@ -341,28 +340,21 @@
 															</style>
 															<div class="elementor-social-icons-wrapper elementor-grid">
 																<span class="elementor-grid-item">
-																	<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-shrink elementor-repeater-item-c0163ab"
+																	<a href="https://www.facebook.com/slimfitclinicslg/" class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-shrink elementor-repeater-item-c0163ab"
 																		target="_blank">
 																		<span
 																			class="elementor-screen-only">Facebook-f</span>
 																		<i class="fab fa-facebook-f"></i> </a>
 																</span>
 																<span class="elementor-grid-item">
-																	<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-shrink elementor-repeater-item-310ab07"
-																		target="_blank">
-																		<span
-																			class="elementor-screen-only">Twitter</span>
-																		<i class="fab fa-twitter"></i> </a>
-																</span>
-																<span class="elementor-grid-item">
-																	<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-shrink elementor-repeater-item-63f86db"
+																	<a href="https://www.instagram.com/slimfitclinicslg/" class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-shrink elementor-repeater-item-63f86db"
 																		target="_blank">
 																		<span
 																			class="elementor-screen-only">Instagram</span>
 																		<i class="fab fa-instagram"></i> </a>
 																</span>
 																<span class="elementor-grid-item">
-																	<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-shrink elementor-repeater-item-d54d883"
+																	<a href="https://www.youtube.com/channel/UCNs6igeRmh5VjTdK9gBP0NA/videos" class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-shrink elementor-repeater-item-d54d883"
 																		target="_blank">
 																		<span
 																			class="elementor-screen-only">Youtube</span>
@@ -556,6 +548,13 @@
 																			class="elementor-icon-list-text">Sitemap</span>
 																	</a>
 																</li>
+																<li class="elementor-icon-list-item">
+																	<a href="#">
+
+																		<span
+																			class="elementor-icon-list-text">FAQ</span>
+																	</a>
+																</li>
 															</ul>
 														</div>
 													</div>
@@ -590,35 +589,26 @@
 																<li class="elementor-icon-list-item">
 																	<a href="#">
 
-																		<span class="elementor-icon-list-text">Privacy
-																			Policy</span>
+																		<span class="elementor-icon-list-text">Best Cosmetic Clinic In Siliguri</span>
 																	</a>
 																</li>
 																<li class="elementor-icon-list-item">
 																	<a href="#">
 
-																		<span class="elementor-icon-list-text">Terms and
-																			Conditions</span>
+																		<span class="elementor-icon-list-text">Best Hair Transplant Clinic in Siliguri</span>
 																	</a>
 																</li>
 																<li class="elementor-icon-list-item">
 																	<a href="#">
 																		<span
-																			class="elementor-icon-list-text">Disclaimer</span>
+																			class="elementor-icon-list-text">Best Cosmetic Laser Surgeon in Siliguri</span>
 																	</a>
 																</li>
 																<li class="elementor-icon-list-item">
 																	<a href="#">
 
 																		<span
-																			class="elementor-icon-list-text">Support</span>
-																	</a>
-																</li>
-																<li class="elementor-icon-list-item">
-																	<a href="#">
-
-																		<span
-																			class="elementor-icon-list-text">FAQ</span>
+																			class="elementor-icon-list-text">Best Weight Loss Centres in Siliguri</span>
 																	</a>
 																</li>
 															</ul>

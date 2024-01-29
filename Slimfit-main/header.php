@@ -5,11 +5,11 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Slimfit Paramount</title>
+    <title>Slimfit Clinic &#8211; Best Cosmetic Clinic in Siliguri</title>
     <meta name='robots' content='max-image-preview:large' />
-
+    <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
     <script>
-        window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/templatekit.jegtheme.com\/quinnie\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.3" } };
+        window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/templatekit.jegtheme.com\/Slimfit Paramount\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.3" } };
         /*! This file is auto-generated */
         !function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode, e = (p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0), i.toDataURL()); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (p && p.fillText) switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([129777, 127995, 8205, 129778, 127999], [129777, 127995, 8203, 129778, 127999]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e.wpemoji))) }(window, document, window._wpemojiSettings);
     </script>
@@ -207,8 +207,8 @@
     <div id="page" class="hfeed site">
 
         <header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
-            <p class="main-title bhf-hidden" itemprop="headline"><a href="https://templatekit.jegtheme.com/quinnie"
-                    title="Quinnie" rel="home">Quinnie</a></p>
+            <p class="main-title bhf-hidden" itemprop="headline"><a href="https://templatekit.jegtheme.com/Slimfit Paramount"
+                    title="Slimfit Paramount" rel="home">Slimfit Paramount</a></p>
             <div data-elementor-type="wp-post" data-elementor-id="457" class="elementor elementor-457">
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-269082b elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -227,8 +227,8 @@
                                             <li class="elementor-icon-list-item elementor-inline-item">
                                                 <span class="elementor-icon-list-icon">
                                                     <i aria-hidden="true" class="fas fa-map-marker-alt"></i> </span>
-                                                <span class="elementor-icon-list-text">Jl. Gatot Subroto Barat, Denpasar
-                                                    Utara</span>
+                                                <span class="elementor-icon-list-text">Mangal Pandey Rd, Ward 9,
+                                                    Khalpara, Siliguri</span>
                                             </li>
                                         </ul>
                                     </div>
@@ -245,22 +245,29 @@
                                         <ul class="elementor-icon-list-items elementor-inline-items">
                                             <li class="elementor-icon-list-item elementor-inline-item">
                                                 <span class="elementor-icon-list-icon">
-                                                    <i aria-hidden="true" class="jki jki-facebook-light"></i> </span>
+                                                    <a href="https://www.facebook.com/slimfitclinicslg/"
+                                                        target="_BLANK"><i aria-hidden="true"
+                                                            class="jki jki-facebook-light"></i></a> </span>
                                                 <span class="elementor-icon-list-text"></span>
                                             </li>
-                                            <li class="elementor-icon-list-item elementor-inline-item">
+                                            <!-- <li class="elementor-icon-list-item elementor-inline-item">
                                                 <span class="elementor-icon-list-icon">
                                                     <i aria-hidden="true" class="jki jki-twitter-light"></i> </span>
                                                 <span class="elementor-icon-list-text"></span>
-                                            </li>
+                                            </li> -->
                                             <li class="elementor-icon-list-item elementor-inline-item">
                                                 <span class="elementor-icon-list-icon">
-                                                    <i aria-hidden="true" class="jki jki-instagram-1-light"></i> </span>
+                                                    <a href="https://www.instagram.com/slimfitclinicslg/"
+                                                        target="_blank" rel="noopener noreferrer" target="_BLANK"><i
+                                                            aria-hidden="true"
+                                                            class="jki jki-instagram-1-light"></i></a> </span>
                                                 <span class="elementor-icon-list-text"></span>
                                             </li>
                                             <li class="elementor-icon-list-item elementor-inline-item">
                                                 <span class="elementor-icon-list-icon">
-                                                    <i aria-hidden="true" class="jki jki-youtube-v-light"></i> </span>
+                                                    <a href="https://www.youtube.com/channel/UCNs6igeRmh5VjTdK9gBP0NA/videos"
+                                                        target="_blank" rel="noopener noreferrer"><i aria-hidden="true"
+                                                            class="jki jki-youtube-v-light"></i></a> </span>
                                                 <span class="elementor-icon-list-text"></span>
                                             </li>
                                         </ul>
@@ -331,55 +338,44 @@
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561">
                                                             <a href="about-us/index">About Us</a>
                                                         </li>
-                                                        <li id="menu-item-562"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562">
-                                                            <a href="services/index">Services</a>
-                                                        </li>
-                                                        <li id="menu-item-704"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704">
-                                                            <a href="appointment/index">Appointment</a>
-                                                        </li>
-                                                        <li id="menu-item-8"
-                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8">
-                                                            <a href="#">Pages</a>
-                                                            <ul class="sub-menu">
-                                                                <li id="menu-item-703"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703">
-                                                                    <a href="pricing/index">Pricing</a>
-                                                                </li>
-                                                                <li id="menu-item-702"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
-                                                                    <a href="doctor/index">Our Doctor</a>
-                                                                </li>
-                                                                <li id="menu-item-701"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701">
-                                                                    <a href="faq/index">FAQ</a>
-                                                                </li>
-                                                                <li id="menu-item-700"
-                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700">
-                                                                    <a href="404-page/index">404 Page</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
                                                         <li id="menu-item-10"
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10">
-                                                            <a href="#">Blog</a>
+                                                            <a href="#">Services</a>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-699"
                                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
-                                                                    <a href="blog/index">Blog</a>
+                                                                    <a href="#">Non-Surgical Treatments</a>
                                                                 </li>
                                                                 <li id="menu-item-721"
                                                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-721">
-                                                                    <a
-                                                                        href="2021/09/27/illegal-injections-risk-and-warning-you-must-know/index">Single
-                                                                        Blog</a>
+                                                                    <a href="">Head & Face</a>
+                                                                </li>
+                                                                <li id="menu-item-721"
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-721">
+                                                                    <a href="">Breast Surgery</a>
+                                                                </li>
+                                                                <li id="menu-item-721"
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-721">
+                                                                    <a href="">Tummy</a>
+                                                                </li>
+                                                                <li id="menu-item-721"
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-721">
+                                                                    <a href="">Body Contouring</a>
+                                                                </li>
+                                                                <li id="menu-item-721"
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-721">
+                                                                    <a href="">Mommy Makeover</a>
                                                                 </li>
                                                             </ul>
                                                         </li>
+                                                        <li id="menu-item-704"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704">
+                                                            <a href="blog">Blogs</a>
+                                                        </li>
+
                                                         <li id="menu-item-698"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-698">
-                                                            <a href="contact/index">Contact</a>
+                                                            <a href="contact">Contact</a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -398,6 +394,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c767be3 elementor-hidden-tablet elementor-hidden-phone"
                             data-id="c767be3" data-element_type="column">
                             <div class="elementor-widget-wrap elementor-element-populated">
