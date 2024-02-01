@@ -3,7 +3,9 @@
 
 
 <div data-elementor-type="wp-page" data-elementor-id="125" class="elementor elementor-125">
-    <section
+    
+
+<section
         class="elementor-section elementor-top-section elementor-element elementor-element-50ed451f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="50ed451f" data-element_type="section"
         data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -171,6 +173,8 @@
             </div>
         </div>
     </section>
+
+
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-81bb33f animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
         data-id="81bb33f" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
@@ -309,6 +313,8 @@ for personalized healthcare advice. </p>
             </div>
         </div>
     </section>
+
+
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-31068e7 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="31068e7" data-element_type="section"
@@ -368,8 +374,7 @@ for personalized healthcare advice. </p>
                                 class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation- jeg_module_125_3_65169b8cde822">
                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-header elementor-animation-float">
-                                        <div class="icon style-color"><i aria-hidden="true"
-                                                class="jki jki-save-money-light"></i></div>
+                                        <div class="icon style-color"><i aria-hidden="true" class="jki jki-doctor-light"></i></div>
                                     </div>
                                     <div class="icon-box icon-box-body">
                                         <h3 class="title">Certified Expert</h3>
@@ -389,8 +394,10 @@ for personalized healthcare advice. </p>
                                 class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation- jeg_module_125_4_65169b8cdf4bf">
                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                     <div class="icon-box icon-box-header elementor-animation-float">
-                                        <div class="icon style-color"><i aria-hidden="true"
-                                                class="jki jki-doctor-light"></i></div>
+                                        <div class="icon style-color">
+                                            <!-- <i aria-hidden="true" class="jki jki-doctor-light"></i> -->
+                                            <img src="assets/img/Treadmill.png"  class="jki jki-doctor-light" height="150px" width="150px" alt="" srcset="">
+                                        </div>
                                     </div>
                                     <div class="icon-box icon-box-body">
                                         <h3 class="title">Smart Fitness</h3>
@@ -548,6 +555,8 @@ for personalized healthcare advice. </p>
             </div>
         </div>
     </section>
+
+
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-4aeb0858 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="4aeb0858" data-element_type="section">
@@ -612,8 +621,7 @@ for personalized healthcare advice. </p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7a4c9e9b"
-                                data-id="7a4c9e9b" data-element_type="column">
+                            <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7a4c9e9b" data-id="7a4c9e9b" data-element_type="column">
                                 <div class="elementor-widget-wrap elementor-element-populated">
                                     <div class="elementor-element elementor-element-13ba4c93 elementor-widget elementor-widget-jkit_fun_fact"
                                         data-id="13ba4c93" data-element_type="widget"
@@ -670,6 +678,8 @@ for personalized healthcare advice. </p>
             </div>
         </div>
     </section>
+
+
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-f673224 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="f673224" data-element_type="section"
@@ -749,7 +759,7 @@ for personalized healthcare advice. </p>
                                         data-id="3e6e477" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img decoding="async"
-                                                src="assets/img/doctor-performing-rhinoplasty-by-injection-of-hyaluronic-acid-in-the-nose-of-his-patient-1-e1632845058879-pdsbvce7"
+                                                src="assets/img/rhinoplasty.jpeg"
                                                 title="Doctor performing rhinoplasty by injection of hyaluronic acid in the nose of his patient"
                                                 alt="Doctor performing rhinoplasty by injection of hyaluronic acid in the nose of his patient"
                                                 loading="lazy" />
@@ -770,8 +780,8 @@ for personalized healthcare advice. </p>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Rhinoplasty</h3>
                                                         <p class="icon-box-description">Silimfit Paramount offers personalized
- rhinoplasty solutions that cater to your 
-specific goals and desires. </p>
+                                                        rhinoplasty solutions that cater to your 
+                                                        specific goals and desires. </p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -795,7 +805,7 @@ specific goals and desires. </p>
                                         data-id="7a2409a" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img decoding="async"
-                                                src="assets/img/cosmetician-holds-syringe-with-injection-of-botox-e1632845065292-pdsbviz2etugr5ixrqze2uyn0m0dvt0g2stagj2n7c.29.del"
+                                                src="assets/img/botox-injection.del"
                                                 title="Cosmetician holds syringe with injection of botox"
                                                 alt="Cosmetician holds syringe with injection of botox"
                                                 loading="lazy" />
@@ -816,9 +826,9 @@ specific goals and desires. </p>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Botox Injection</h3>
                                                         <p class="icon-box-description">Silimfit Paramount, our team of skilled 
-professionals comprises licensed and 
-experienced practitioners specializing
- in Botox treatments.</p>
+                                                        professionals comprises licensed and 
+                                                        experienced practitioners specializing
+                                                        in Botox treatments.</p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -842,7 +852,7 @@ experienced practitioners specializing
                                         data-id="9d4bf5a" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img decoding="async"
-                                                src="assets/img/young-woman-getting-breast-examination-at-the-hospital-e1632845073814-pdsbvqhrxi4rc180ju8emt2brozblduaru16aqrhtk.2"
+                                                src="assets/img/breast-implant.2"
                                                 title="Young woman getting breast examination at the hospital"
                                                 alt="Young woman getting breast examination at the hospital"
                                                 loading="lazy" />
@@ -856,16 +866,15 @@ experienced practitioners specializing
                                                 class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation- jeg_module_125_12_65169b8cf0f3c">
                                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                                     <div class="icon-box icon-box-header elementor-animation-">
-                                                        <div class="icon style-color"><img decoding="async"
-                                                                src="assets/img/breast.png"
-                                                                alt="Breast Implant"></div>
+                                                        <div class="icon style-color"><img decoding="async" src="assets/img/breast.png" alt="Breast Implant"></div>
                                                     </div>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Breast Implant</h3>
                                                         <p class="icon-box-description">Silimfit Paramount is committed to
- providing the highest quality breast
- implants with an unwavering focus 
-on safety. </p>
+                                                            providing the highest quality breast
+                                                            implants with an unwavering focus 
+                                                            on safety. 
+                                                        </p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -896,7 +905,7 @@ on safety. </p>
                                         data-id="cd4b64f" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <img decoding="async"
-                                                src="assets/img/cosmetologist-doing-laser-facelifting-procedure-in-beauty-clinic-e1632845079520-pdsbvw4t2ich9oztmwo61rn3c07ivkgosl"
+                                                src="assets/img/facelift1.png"
                                                 title="Cosmetologist doing laser facelifting procedure in beauty clinic"
                                                 alt="Cosmetologist doing laser facelifting procedure in beauty clinic"
                                                 loading="lazy" />
@@ -917,9 +926,9 @@ on safety. </p>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Facelift</h3>
                                                         <p class="icon-box-description">Silimfit Paramount is pleased to offer 
-advanced facelift procedures, designed 
-to restore a youthful and refreshed 
-appearance to your facial contours.</p>
+                                                        advanced facelift procedures, designed 
+                                                        to restore a youthful and refreshed 
+                                                        appearance to your facial contours.</p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -957,16 +966,14 @@ appearance to your facial contours.</p>
                                                 class="jeg-elementor-kit jkit-icon-box icon-position-left elementor-animation- jeg_module_125_14_65169b8d01389">
                                                 <div class="jkit-icon-box-wrapper hover-from-left">
                                                     <div class="icon-box icon-box-header elementor-animation-">
-                                                        <div class="icon style-color"><img decoding="async"
-                                                                src="assets/img/body.png"
-                                                                alt="Body Shaping"></div>
+                                                        <div class="icon style-color"><img decoding="async" src="assets/img/body.png" alt="Body Shaping"></div>
                                                     </div>
                                                     <div class="icon-box icon-box-body">
                                                         <h3 class="title">Liposuction</h3>
                                                         <p class="icon-box-description">Silimfit Paramount is pleased to offer
- advanced liposuction procedures, 
-a proven and effective method for body 
-contouring and sculpting.</p>
+                                                        advanced liposuction procedures, 
+                                                        a proven and effective method for body 
+                                                        contouring and sculpting.</p>
                                                         <div class="icon-box-button ">
                                                             <div class="btn-wrapper icon-position-after">
                                                                 <a href="#" class="icon-box-link">Read More<i
@@ -1031,6 +1038,7 @@ contouring and sculpting.</p>
             </div>
         </div>
     </section>
+
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-3ea84ed elementor-section-full_width elementor-section-height-default elementor-section-height-default"
         data-id="3ea84ed" data-element_type="section"
@@ -1101,6 +1109,8 @@ contouring and sculpting.</p>
             </div>
         </div>
     </section>
+
+
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-453916a elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="453916a" data-element_type="section">
@@ -1112,7 +1122,7 @@ contouring and sculpting.</p>
                         data-id="4c5d80e" data-element_type="widget" data-widget_type="image.default">
                         <div class="elementor-widget-container">
                             <img decoding="async"
-                                src="wp-content/uploads/sites/170/elementor/thumbs/female-patient-shaking-hands-with-doctor-sitting-at-desk-in-office-pdlg4knk91e5g3jh5c6rovx8fo897duyr5rchgrppc.37.d"
+                                src="assets/img/approach.png"
                                 title="Female Patient Shaking Hands With Doctor Sitting At Desk In Office"
                                 alt="Female Patient Shaking Hands With Doctor Sitting At Desk In Office"
                                 loading="lazy" />
@@ -1130,8 +1140,8 @@ contouring and sculpting.</p>
                                     <div class="elementor-element elementor-element-e3938fc elementor-widget elementor-widget-heading"
                                         data-id="e3938fc" data-element_type="widget" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Get a
-                                                Free Estimate or Schedule an Appointment With Us
+                                            <h3 class="elementor-heading-title elementor-size-default">Get a Free Schedule
+an Appointment With us
                                             </h3>
                                         </div>
                                     </div>
@@ -1262,6 +1272,8 @@ contouring and sculpting.</p>
             </div>
         </div>
     </section>
+
+
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-9afd880 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="9afd880" data-element_type="section">
@@ -1415,6 +1427,8 @@ contouring and sculpting.</p>
             </div>
         </div>
     </section>
+
+
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-40bc8432 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="40bc8432" data-element_type="section">
@@ -1461,10 +1475,10 @@ contouring and sculpting.</p>
                                                         <article
                                                             class="jkit-post post-707 post type-post status-publish format-standard has-post-thumbnail hentry category-insight tag-injection">
                                                             <div class="jkit-thumb"><a
-                                                                    href="2021/09/27/illegal-injections-risk-and-warning-you-must-know/index.html">
+                                                                    href="">
                                                                     <div class="thumbnail-container ">
                                                                         <img loading="lazy" width="1920" height="1280"
-                                                                            src="assets/img/anti-age-injection-e1632844899535.jpg"
+                                                                            src="assets/img/blog1.png"
                                                                             class="attachment-full size-full wp-post-image"
                                                                             alt="Anti-age injection" decoding="async" />
                                                                     </div>
@@ -1472,7 +1486,7 @@ contouring and sculpting.</p>
                                                             <div class="jkit-postblock-content">
                                                                 <h3 class="jkit-post-title">
                                                                     <a
-                                                                        href="2021/09/27/illegal-injections-risk-and-warning-you-must-know/index.html">The Comprehensive Guide to Hair Transplants</a>
+                                                                        href="">The Comprehensive Guide to Hair Transplants</a>
                                                                 </h3>
                                                                 <div class="jkit-post-meta">
                                                                     <div class="jkit-meta-date icon-position-before">
@@ -1497,10 +1511,10 @@ contouring and sculpting.</p>
                                                         <article
                                                             class="jkit-post post-113 post type-post status-publish format-standard has-post-thumbnail hentry category-insight tag-injection">
                                                             <div class="jkit-thumb"><a
-                                                                    href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular-2/index.html">
+                                                                    href="">
                                                                     <div class="thumbnail-container ">
                                                                         <img width="1920" height="1282"
-                                                                            src="assets/img/man-at-the-plastic-surgeon-e1632844939853.jpg"
+                                                                            src="assets/img/blog2.png"
                                                                             class="attachment-full size-full wp-post-image"
                                                                             alt="Man at the plastic surgeon"
                                                                             decoding="async" loading="lazy" />
@@ -1523,7 +1537,7 @@ contouring and sculpting.</p>
                                                                 </div>
                                                                 <div class="jkit-post-meta-bottom">
                                                                     <div class="jkit-meta-readmore icon-position-after">
-                                                                        <a href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular-2/index.html"
+                                                                        <a href=""
                                                                             class="jkit-readmore">Read More<i
                                                                                 aria-hidden="true"
                                                                                 class="fas fa-arrow-right"></i></a>
@@ -1534,10 +1548,10 @@ contouring and sculpting.</p>
                                                         <article
                                                             class="jkit-post post-110 post type-post status-publish format-standard has-post-thumbnail hentry category-plastic-surgery tag-surgery">
                                                             <div class="jkit-thumb"><a
-                                                                    href="2021/09/22/medical-surgery-has-marked-as-one-of-the-most-popular/index.html">
+                                                                    href="">
                                                                     <div class="thumbnail-container ">
                                                                         <img width="1920" height="1280"
-                                                                            src="assets/img/enlarging-lips-at-cosmetic-clinic-e1632845241540.jpg"
+                                                                            src="assets/img/blog3.png"
                                                                             class="attachment-full size-full wp-post-image"
                                                                             alt="Enlarging lips at cosmetic clinic"
                                                                             decoding="async" loading="lazy" />
@@ -1574,7 +1588,7 @@ contouring and sculpting.</p>
                                                                     href="">
                                                                     <div class="thumbnail-container ">
                                                                         <img width="1920" height="1278"
-                                                                            src="assets/img/male-surgeon-prepares-woman-for-surgery-in-clinic-e1632844975873.jpg"
+                                                                            src="assets/img/blog4.png"
                                                                             class="attachment-full size-full wp-post-image"
                                                                             alt="Male surgeon prepares woman for surgery in clinic"
                                                                             decoding="async" loading="lazy" />
@@ -1586,8 +1600,7 @@ contouring and sculpting.</p>
                                                                 </h3>
                                                                 <div class="jkit-post-meta">
                                                                     <div class="jkit-meta-date icon-position-before">
-                                                                        <i aria-hidden="true"
-                                                                            class="fas fa-clock"></i>January
+                                                                        <i aria-hidden="true" class="fas fa-clock"></i>January
                                                                         28, 2024
                                                                     </div>
                                                                 </div>
